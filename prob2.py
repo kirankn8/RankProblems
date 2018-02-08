@@ -33,7 +33,6 @@ Print T lines. On the ith line print YES if it is possible to
 rearrange the grid in the ith testcase or NO otherwise.
 
 """
-
 def gridChallenge(grid):
     # Complete this function
     for i in range(len(grid)):
